@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m **Olagunju Kareem Okikiola**
 
-🎓 *Civil Engineering student (University of Ibadan)* |
+🎓 *Civil Engineering aspirant (University of Ibadan)* |
 💻 *Python enthusiast | Engineering + Data Science explorer*
 
 ---
