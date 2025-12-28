@@ -47,4 +47,4 @@ I’m currently building small but purposeful Python projects while studying the
 #### 📫 Reach Me
 📧 [olagunjukareem111@gmail.com](mailto:olagunjukareem111@gmail.com)  
 📍 Ibadan, Nigeria  
-💬 [WhatsApp Me](https://wa.me/2348152565737) 
+💬 [WhatsApp](https://wa.me/2348152565737) 
