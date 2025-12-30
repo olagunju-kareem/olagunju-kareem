@@ -25,7 +25,7 @@ I’m currently building small but purposeful Python projects while studying the
 
 #### 🧰 Languages & Tools
 
-`Python` · `NumPy` · `Matplotlib` · `AutoCAD (beginner)` · `Excel` · `VS Code` · `Git`
+`Python` · `NumPy` · `Matplotlib` · `AutoCAD (beginner)` · `Excel` · `VS Code` · `Git` ⋅ 'Fortran'
 
 ---
 
